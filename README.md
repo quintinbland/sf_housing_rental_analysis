@@ -10,8 +10,9 @@ This project leverages python 3.7 with the following packages:
 
 * [pandas](https://github.com/pandas-dev/pandas) - For DataFrame construction and data sorting.
 
-* [hvplot](https://pyviz-dev.github.io/hvplot/user_guide/Introduction.html) - For data visualizations
+* [hvplot](https://pyviz-dev.github.io/hvplot/user_guide/Introduction.html) - For data visualization
 
+* [bokeh](https://docs.bokeh.org/en/latest/docs/user_guide.html) - For additional data visualization
 ---
 
 ## Installation Guide
@@ -22,6 +23,7 @@ Before running the application first install the following dependencies.
 ```python
   pip install pandas
   pip install hvplot
+  pip install bokeh
 ```
 
 ---
