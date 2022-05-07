@@ -32,6 +32,7 @@ Before running the application first install the following dependencies.
 
 * What is the overall trend in housing_units over the period being analyzed?
     - The average amount of rented housing units increased each year between 2010-2016.
+
 ![Housing Units By Year](Images/zoomed-housing-units-by-year.png)
 
 
@@ -56,7 +57,7 @@ Before running the application first install the following dependencies.
 
 
 * Data Story:
-    - As rental income increases, sale prices remain mostly stable. For all neighborhoods, gross rent outpaced sales price per square foot.Neighborhoods with a steady sale price per square foot, or a sale price that decreases with respect to gross rent would be good investments. Hayes valley would be a good place to look at investment properties. The neighborhood's sales price is negatively correlated with average gross rent.
+    - As rental income increases, sale prices remain mostly stable. For all neighborhoods, gross rent outpaced sales price per square foot. Neighborhoods with a steady sale price per square foot, or a sale price that decreases with respect to gross rent would be good investments. Hayes valley would be a good place to look at investment properties. The neighborhood's sales price is negatively correlated with average gross rent.
 
 ---
 
