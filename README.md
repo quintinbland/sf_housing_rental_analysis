@@ -60,13 +60,15 @@ Before running the application first install the following dependencies.
     - As rental income increases, sale prices remain mostly stable. For all neighborhoods, gross rent outpaced sales price per square foot. Neighborhoods with a steady sale price per square foot, or a sale price that decreases with respect to gross rent would be good investments. Hayes valley would be a good place to look at investment properties. The neighborhood's sales price is negatively correlated with average gross rent.
 
 ---
-
 ## Contributors
 
-Quintin Bland
+
+*  **Quintin Bland** <span>&nbsp;&nbsp;</span> |
+<span>&nbsp;&nbsp;</span> *email:* quintinbland2@gmail.com <span>&nbsp;&nbsp;</span>|
+<span>&nbsp;&nbsp;</span> [<img src="images/LI-In-Bug.png" alt="in" width="20"/>](https://www.linkedin.com/in/quintin-bland-a2b94310b/)
 
 ---
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
