@@ -12,6 +12,7 @@ This project leverages python 3.7 with the following packages:
 
 * [hvplot](https://pyviz-dev.github.io/hvplot/user_guide/Introduction.html) - For data visualizations
 
+* [bokeh](https://docs.bokeh.org/en/latest/docs/user_guide.html) - For additional data visualization
 ---
 
 ## Installation Guide
@@ -22,6 +23,7 @@ Before running the application first install the following dependencies.
 ```python
   pip install pandas
   pip install hvplot
+  pip install bokeh
 ```
 
 ---
@@ -63,10 +65,13 @@ Before running the application first install the following dependencies.
 
 ## Contributors
 
-Quintin Bland
+
+*  **Quintin Bland** <span>&nbsp;&nbsp;</span> |
+<span>&nbsp;&nbsp;</span> *email:* quintinbland2@gmail.com <span>&nbsp;&nbsp;</span>|
+<span>&nbsp;&nbsp;</span> [<img src="images/LI-In-Bug.png" alt="in" width="20"/>](https://www.linkedin.com/in/quintin-bland-a2b94310b/)
 
 ---
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
