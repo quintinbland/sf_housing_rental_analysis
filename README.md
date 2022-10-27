@@ -1,6 +1,6 @@
 # San Francisco Rental Housing Analysis 
 
-Using interactive visualizations and geospatial analysis, this program will find properties in the San Francisco Market that are viable investment opportunitites. Based on the visualizations, we will create a data story
+Using interactive visualizations and geospatial analysis, this program will find properties in the San Francisco Market that are viable investment opportunitites. Based on the visualizations, a data story will be created.
 
 
 
